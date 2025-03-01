@@ -40,6 +40,7 @@ Las personas más propensas a aceptar el crédito bancario son:
 
 ### 📌 Próximos pasos
 📍 Utilizar técnicas de Machine larning para afinar el análisis
+
 📍 Utilizar métodos predictivos
 
 ### 🤝 Contribuciones
