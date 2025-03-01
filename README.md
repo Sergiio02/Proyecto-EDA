@@ -25,11 +25,17 @@ Puedes instalarlas todas ejecutando: pip install pandas numpy matplotlib seaborn
 ### 📊 Resultados y conclusiones:
 Las personas más propensas a aceptar el crédito bancario son:
 ✔️ Clientes que aceptaron la campaña de marketing anterior
-✔️ Personas con más de 60 años, especialmente los dedicados almanagement, son emprendedores o administrativos, después de esas edad, las personas de entre 18 y 25, especialmente losq ue están o estudiando o desempelados
+
+✔️ Personas con más de 60 años, especialmente los dedicados almanagement, son emprendedores o administrativos, después de esas edad, las personas de entre 18 y 25, especialmente los que están o estudiando o desempleados
+
 ✔️ Clientes con préstamos hipotecarios
+
 ✔️ Clientes cuyas llamadas duran más que la media
+
 ✔️ Estudiantes y retirados
+
 ✔️ Clientes contactados por celular
+
 ✔️ Solteros
 
 ### 📌 Próximos pasos
