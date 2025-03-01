@@ -19,7 +19,7 @@ Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes herra
   - numpy
   - matplotlib
   - seaborn
-  Puedes instalarlas todas ejecutando: pip install pandas numpy matplotlib seaborn
+Puedes instalarlas todas ejecutando: pip install pandas numpy matplotlib seaborn
 
 ### 📊 Resultados y conclusiones:
 Las personas más propensas a aceptar el crédito bancario son:
